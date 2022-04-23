@@ -8,6 +8,8 @@ public class Utility {
 		return new Date();
 	}
 	public void m1() {
-		System.out.println("Utitlity m1() method ..abcdef");
+
+		System.out.println("Utitlity m1() method ..1234567");
+
 	}
 }
