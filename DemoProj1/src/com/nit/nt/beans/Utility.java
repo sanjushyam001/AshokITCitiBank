@@ -1,6 +1,6 @@
 package com.nit.nt.beans;
 
-import java.security.PublicKey;
+
 import java.util.Date;
 
 public class Utility {
